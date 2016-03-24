@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\layout\\frontscreen.xml",
+        "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\layout\\frontscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\layout\\activity_result.xml"
+    }
+]
