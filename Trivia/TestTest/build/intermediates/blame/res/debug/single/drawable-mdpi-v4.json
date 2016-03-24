@@ -4,15 +4,31 @@
         "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\drawable-mdpi\\edittextstyle.xml"
     },
     {
+        "merged": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edittextstyle.xml",
+        "source": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\src\\main\\res\\drawable-mdpi\\edittextstyle.xml"
+    },
+    {
         "merged": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edittextstyle2.xml",
         "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\drawable-mdpi\\edittextstyle2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edittextstyle2.xml",
+        "source": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\src\\main\\res\\drawable-mdpi\\edittextstyle2.xml"
     },
     {
         "merged": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edittextstyle1.xml",
+        "source": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\src\\main\\res\\drawable-mdpi\\edittextstyle1.xml"
+    },
+    {
         "merged": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edittextstyle1.xml",
         "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\drawable-mdpi\\edittextstyle1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

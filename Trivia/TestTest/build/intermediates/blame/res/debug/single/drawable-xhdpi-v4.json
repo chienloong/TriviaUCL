@@ -8,11 +8,27 @@
         "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\drawable-xhdpi\\edittextstyle.xml"
     },
     {
+        "merged": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittextstyle.xml",
+        "source": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\src\\main\\res\\drawable-xhdpi\\edittextstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittextstyle2.xml",
+        "source": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\src\\main\\res\\drawable-xhdpi\\edittextstyle2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittextstyle2.xml",
         "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\drawable-xhdpi\\edittextstyle2.xml"
     },
     {
         "merged": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittextstyle1.xml",
+        "source": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\src\\main\\res\\drawable-xhdpi\\edittextstyle1.xml"
     }
 ]

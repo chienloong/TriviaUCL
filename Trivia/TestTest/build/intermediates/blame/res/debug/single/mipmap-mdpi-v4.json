@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Lim\\Desktop\\TriviaUCL\\Trivia\\TestTest\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Lim\\Desktop\\Trivia\\TestTest\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
